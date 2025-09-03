@@ -7,7 +7,7 @@ idx = 41
 price_list = {29, 30}
 duration_time = (3, 19)
 notes = {'2': 'Storm'}
-block_num = 9
+block = b"Hello"
 
 print(type(years))
 print(type(part))
@@ -18,7 +18,7 @@ print(type(price_list))
 print(type(idx))
 print(type(duration_time))
 print(type(notes))
-print(type(block_num))
+print(type(block))
 
 print(years)
 print(part)
